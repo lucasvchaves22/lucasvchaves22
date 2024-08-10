@@ -1,7 +1,7 @@
 ### Olá, eu sou o Lucas Vasconcelos 👋
 
 - 🔭 Hoje trabalho como Analista de Infraestrutura.
-- 🌱 Estudo Python, JS, TypeScript, React HTML e CSS.
+- 🌱 Estudo Python, JS, TypeScript, React, HTML e CSS.
 - 📫 Contate-me no email: lucasvchaves22@gmail.com
 
 <div align="center">
